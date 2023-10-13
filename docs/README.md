@@ -20,4 +20,4 @@
 
 Пишите в Telegram, расскажу подробнее [@ErlikhmanIG](https://t.me/ErlikhmanIG)
 
-##### [Кейсы](./Cases.md) &nbsp; &nbsp; &nbsp; &nbsp; ![Alt Text](Pictures/hand-left-32.png)
+##### ![logo](Pictures/hand-right-30.png)&nbsp; &nbsp;&nbsp; &nbsp;[Кейсы](./Cases.md)
