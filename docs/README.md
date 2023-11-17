@@ -18,7 +18,7 @@
 ![logo](Pictures/icons8-fire-24.png) При размещении рекламы в Telegram-каналах подписчики в среднем дешевле, чем в соцсетях, в 2-3 раза  
 ![logo](Pictures/icons8-fire-24.png) Дам консультацию, как улучшить сайт/Telegram-канал, чтобы увеличить конверсию  
 
-Пишите в Telegram, расскажу подробнее [@ErlikhmanIG](https://t.me/ErlikhmanIG)
+Пишите в Telegram, расскажу подробнее [@IlyaMediabuyer](https://t.me/IlyaMediabuyer)
 
 ##### [Кейсы](./Cases.md) <!-- --> &nbsp; &nbsp; &nbsp; &nbsp; ![logo](Pictures/hand-left-32.png) 
  <!-- -->
